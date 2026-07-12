@@ -178,7 +178,7 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/kevin-patrick-s-s-/",
+    href: "https://www.linkedin.com/in/kevin-patrick-s-s-ab60b628b",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
